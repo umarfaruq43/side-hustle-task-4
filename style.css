@@ -174,7 +174,9 @@ footer a {
   }
 }
 @media (max-width: 576px) {
-
+  .padding {
+    padding: .5rem;
+  }
    .social a {
     font-size: 2em;
     padding: .7rem;
